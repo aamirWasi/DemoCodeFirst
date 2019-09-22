@@ -1,6 +1,9 @@
 ﻿namespace Demo
 {
-    public class CourseLevel
+    public enum CourseLevel
     {
+        Beginner=1
+        ,Intermediate=2
+        ,Advance=3
     }
 }
